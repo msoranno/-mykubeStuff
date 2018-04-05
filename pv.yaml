@@ -11,5 +11,5 @@ spec:
   persistentVolumeReclaimPolicy: Recycle
   nfs:
     path: /var/nfs/general
-    server: 172.31.23.50
+    server: 10.0.2.15
     readOnly: false
